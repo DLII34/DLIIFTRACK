@@ -5,7 +5,7 @@
 Flower code tiktok trend 
 
 Responsive Web -- bisa langsung disesuikan di file css --> style.css
-
+Bot Telegram Bisa Kalian Ganti Dari index.html --> Line 79 - 81 (mungkin :V)
 
 
 # Fitur By DLII (GPs or IPlocation)
